@@ -1,0 +1,7 @@
+In order to get the theme:
+
+jt -N -T -f firacode -tf merriserif -nf latosans -fs 85 -tfs 9 -nfs 85 -cellw 100% -t grade3
+
+codewars.com is great to practice coding.
+
+The Art of Readable Code
