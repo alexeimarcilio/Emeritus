@@ -1,0 +1,159 @@
+ALEXEI MARCILIO
+CRM Consultant (Salesforce.com)
+
+alexei.marcilio@gmail.com
+416.476.6409
+www.marcilio.com
+Toronto, Canada, M4W 3Y8
+
+Summary
+======
+An enthusiastic results-driven CRM Manager and Business Analyst with over 10 years of experience in Customer Relationship Management (CRM) and Analytics. Excellent Leadership skills, plus the technical knowledge to build bridges between management and IT.
+
+
+Experience
+======
+CRM & Analytics Consultant (Salesforce.com)
+Tran Inc.
+3/2014 - Ongoing
+Toronto, Canada
+TRAN INC. is a boutique Canadian Market Research and Analytics Company.
+ - Discover, document, and analyze key business processes for CRM.
+ - Effectively scope and implement CRM projects, working with CRM teams, vendors/partners and other major stakeholders on scheduling and resource usage.
+ - Bid specialist for RFP response process, including evaluation of requirements and developing proposal.
+ - Configure Salesforce.com CRM system to cater for CRM design requirements following best practices and minimum customization.
+ - Provide training and ongoing support for internal and external CRM customers.
+ - Design Apex Triggers and Workflow in Salesforce.com to solve known issues.
+
+Manager of Systems Development
+College of Nurses of Ontario
+7/2013 - 2/2014
+Toronto, Canada
+The College of Nurses of Ontario is the governing body for registered nurses in Ontario, Canada.
+ - Planned, co-ordinated and supervised the design, development and implementation of existing or new College application systems.
+ - Implemented and Administered Salesforce.com’s Work.com which achieved 100% user adoption within 3 months.
+ - Authored a comprehensive Salesforce.com proposal showing $8 million in ROI over 4 years.
+ - Developed a SQL script to reveal bottlenecks in nurse registration process.
+
+Manager of CRM
+Bayer Inc.
+9/2007 - 6/2013
+Toronto, Canada
+Bayer is a Life Science company with a more than 150-year history and core competencies in the areas of health care and agriculture.
+ - Managed Oracle CRM on Demand Implementation which reduced CRM costs 70%, increased user adoption to 100%, and halved the time it took to deliver analytics data.
+ - Defined and implemented a CRM strategy through research and expertise in CRM, technology and the Pharma Industry.
+ - Designed and led Salesforce.com implementation, the only such project in the Bayer world that involved no consulting costs.
+ - Performed all Salesforce.com administration for the Bayer Pharma sales team involving multiple alignments, and configured the entire system, including multiple custom views and Apex custom classes.
+ - Developed and delivered a complete Salesforce.com Analytics Solution to the entire sales force.
+ - Created all ETL, Apex Data Loader scripts, data cleansing using SQL Server and created all schemas, and all dashboards and reports within Salesforce.com.
+ - Analyzed doctor segmentation using cluster analysis, physician targeting, NBA (Next best action), sales forecasting, and other technique, using SAS.
+ - Increased sales by managing, modelling and implementing sales rep territory alignments for multiple sales teams resulting in an increase in sales.
+
+Project Manager/Business Analyst
+Bayer Inc.
+8/2003 - 8/2007
+Toronto, Canada
+ - Project Manager and Business Analyst for all Bayer Pharma/Marketing CRM Projects.
+ - Assisted business users in developing new or enhanced functionality.
+ - Led project to model, map and streamline all business processes.
+ - Communicated issues to all major stakeholders while managing technical expectations.
+ - Co-Led implementation of multi-divisional Sales & Marketing Oracle data warehouse.
+ - Analyzed, designed and modelled all business processes.
+ - Designed and built an Analytics web portal using Active Server Pages and leveraging PL/SQL ETL scripts resulting in a 20% cost reduction.
+ - Documented functional / business requirements, wrote use cases based on sessions with business and technical stakeholders. 
+ - Delivered enhanced system functionality improving KPIs.
+ - Automated sample recording through CRM system, a first for Bayer, which streamlined the annual sample audit and achieved compliance avoided penalties by meeting Rx&D Guidelines.
+
+
+Achievements
+======
+Managed the first Siebel 8
+Pharma implementation in North America ~ completed in 5 months for $500K.
+
+Twice an Invited Speaker
+to Openworld and once to Dreamforce
+
+First to incorporate IMS 
+data into Oracle CRM on Demand Dashboards
+
+Achieved 4.0/4.0 GPA
+in a Postgraduate Analytics Program and in Masters of Science degree.
+
+
+CERTIFICATIONS
+======
+Certified Salesforce.com Administrator
+
+Project Management Professional (PMI)
+
+ITIL Foundation Certificate
+
+Canadian Securities Course (CSC)
+
+
+Education
+======
+Analytics for Business Decision Making
+George Brown College
+Toronto, Canada
+
+Financial Planning
+George Brown College
+Toronto, Canada
+
+MSc. Computer Science, Data Science
+Merrimack College
+Boston
+
+MBA
+European University
+The Hague, Netherlands
+
+Master of Science
+University of Georgia
+Athens, GA, USA
+
+BSc.
+University of Toronto
+Toronto, Canada
+
+Computer Programming and Systems Analysis
+CDI College (formerly ICS)
+Toronto, Canada
+
+
+Skills
+======
+CRM & Front End Tools
+ - Salesforce.com
+ - Siebel
+ - Oracle CRM on Demand
+ - Excel
+
+Databases and Analytics
+ - SQL
+ - PL/SQL
+ - T-SQL
+ - DBA
+ - SQL Server
+ - Oracle
+ - Access
+ - SAS Enterprise Miner
+ - SAS
+ - Tableau
+ - Python
+ - R & R-Studio
+
+
+Skills
+======
+Project Management
+
+Business Analysis
+
+Leadership
+
+Analytics
+
+Business Process Improvement
+
