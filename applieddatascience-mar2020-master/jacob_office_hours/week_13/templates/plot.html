@@ -1,0 +1,327 @@
+<h1>Here is a plot</h1>
+
+<img src = {{ url_for('static', filename = 'tips.png') }} width = 200 height = 100/>
+
+<html><head>
+
+
+    <!-- Load require.js. Delete this if your page already loads require.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" crossorigin="anonymous"></script>
+    <script type="application/vnd.jupyter.widget-state+json">
+    {
+        "version_major": 2,
+        "version_minor": 0,
+        "state": {
+            "8eb6b63331c646238710fa43284e80b0": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "73b68382716e432fa28e1f0e7bb1ad05": {
+                "model_name": "VBoxModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "_dom_classes": [
+                        "widget-interact"
+                    ],
+                    "layout": "IPY_MODEL_8eb6b63331c646238710fa43284e80b0"
+                }
+            },
+            "ac1b7b368e5d44b19d9eda144c19d495": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "5e43191aa69b4bf880f57ded2902a2e9": {
+                "model_name": "SliderStyleModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description_width": ""
+                }
+            },
+            "7571dddcb2894a24be789cdc36161ae1": {
+                "model_name": "FloatSliderModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description": "x",
+                    "layout": "IPY_MODEL_ac1b7b368e5d44b19d9eda144c19d495",
+                    "step": 0.1,
+                    "style": "IPY_MODEL_5e43191aa69b4bf880f57ded2902a2e9",
+                    "value": 56.8
+                }
+            },
+            "af3e3143685649fe96f174a826b749b9": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "59843baa4e694d809e3eaabd4df5fdc0": {
+                "model_name": "VBoxModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "_dom_classes": [
+                        "widget-interact"
+                    ],
+                    "children": [
+                        "IPY_MODEL_7571dddcb2894a24be789cdc36161ae1",
+                        "IPY_MODEL_1bc080cf542a45aebf5881f579e4dbb6"
+                    ],
+                    "layout": "IPY_MODEL_af3e3143685649fe96f174a826b749b9"
+                }
+            },
+            "3d39b5d46f8f4b98b8679bf4c1b870de": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "1bc080cf542a45aebf5881f579e4dbb6": {
+                "model_name": "OutputModel",
+                "model_module": "@jupyter-widgets/output",
+                "model_module_version": "1.0.0",
+                "state": {
+                    "layout": "IPY_MODEL_3d39b5d46f8f4b98b8679bf4c1b870de",
+                    "outputs": [
+                        {
+                            "output_type": "display_data",
+                            "data": {
+                                "text/plain": "56.8"
+                            },
+                            "metadata": {}
+                        }
+                    ]
+                }
+            },
+            "5bb05fe0ad4d40ad9cd4e7356d3ee97a": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "e621a861efea46b187b5987646ba9c0a": {
+                "model_name": "SliderStyleModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description_width": ""
+                }
+            },
+            "ed19ff246f514e7c999352ee97f2390c": {
+                "model_name": "FloatSliderModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description": "x",
+                    "layout": "IPY_MODEL_5bb05fe0ad4d40ad9cd4e7356d3ee97a",
+                    "step": 0.1,
+                    "style": "IPY_MODEL_e621a861efea46b187b5987646ba9c0a"
+                }
+            },
+            "165bb411af1144079deed44c7d0f842a": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "8ee4f24729414c29b4930fe5ccc41012": {
+                "model_name": "VBoxModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "_dom_classes": [
+                        "widget-interact"
+                    ],
+                    "children": [
+                        "IPY_MODEL_ed19ff246f514e7c999352ee97f2390c",
+                        "IPY_MODEL_27c9fb44903d4c25b38bcb6a1c13d1c2"
+                    ],
+                    "layout": "IPY_MODEL_165bb411af1144079deed44c7d0f842a"
+                }
+            },
+            "c6dc5bbe75d441e2966196940c014038": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "27c9fb44903d4c25b38bcb6a1c13d1c2": {
+                "model_name": "OutputModel",
+                "model_module": "@jupyter-widgets/output",
+                "model_module_version": "1.0.0",
+                "state": {
+                    "layout": "IPY_MODEL_c6dc5bbe75d441e2966196940c014038",
+                    "outputs": [
+                        {
+                            "output_type": "display_data",
+                            "data": {
+                                "text/plain": "0.0"
+                            },
+                            "metadata": {}
+                        }
+                    ]
+                }
+            },
+            "350542b369174e7d86059180ec27d3a8": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "94d6c452cc10458a8dbad5a0f895922c": {
+                "model_name": "SliderStyleModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description_width": ""
+                }
+            },
+            "ee02f109971a4ef0887b13347b9ebf91": {
+                "model_name": "FloatSliderModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description": "x",
+                    "layout": "IPY_MODEL_350542b369174e7d86059180ec27d3a8",
+                    "step": 0.1,
+                    "style": "IPY_MODEL_94d6c452cc10458a8dbad5a0f895922c"
+                }
+            },
+            "2823ea57e88c4e6f972a7267e12bcfe2": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "950cf25cd45d4680a2cb6577c3e985dc": {
+                "model_name": "VBoxModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "_dom_classes": [
+                        "widget-interact"
+                    ],
+                    "children": [
+                        "IPY_MODEL_ee02f109971a4ef0887b13347b9ebf91",
+                        "IPY_MODEL_beea47f333ac4d9a895634d8998e2ab0"
+                    ],
+                    "layout": "IPY_MODEL_2823ea57e88c4e6f972a7267e12bcfe2"
+                }
+            },
+            "99dd5e12e1a84633b51c03976fd06f64": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "beea47f333ac4d9a895634d8998e2ab0": {
+                "model_name": "OutputModel",
+                "model_module": "@jupyter-widgets/output",
+                "model_module_version": "1.0.0",
+                "state": {
+                    "layout": "IPY_MODEL_99dd5e12e1a84633b51c03976fd06f64",
+                    "outputs": [
+                        {
+                            "output_type": "display_data",
+                            "data": {
+                                "text/plain": "0.0"
+                            },
+                            "metadata": {}
+                        }
+                    ]
+                }
+            },
+            "6342e42cfd0f4d4ab77337cc9474af3b": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "fe7435c3a3364509a1784231ac0874d4": {
+                "model_name": "SliderStyleModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description_width": ""
+                }
+            },
+            "94d4a975e26b4aa786a4bc34cee51c9b": {
+                "model_name": "FloatSliderModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "description": "x",
+                    "layout": "IPY_MODEL_6342e42cfd0f4d4ab77337cc9474af3b",
+                    "step": 0.1,
+                    "style": "IPY_MODEL_fe7435c3a3364509a1784231ac0874d4"
+                }
+            },
+            "5313170f40c346d7a6a28fb90cef2f14": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "60a8992b74eb46da8a72983c685a5ad6": {
+                "model_name": "VBoxModel",
+                "model_module": "@jupyter-widgets/controls",
+                "model_module_version": "1.5.0",
+                "state": {
+                    "_dom_classes": [
+                        "widget-interact"
+                    ],
+                    "children": [
+                        "IPY_MODEL_94d4a975e26b4aa786a4bc34cee51c9b",
+                        "IPY_MODEL_262c19cb60574b5b985d0f5659bfe738"
+                    ],
+                    "layout": "IPY_MODEL_5313170f40c346d7a6a28fb90cef2f14"
+                }
+            },
+            "71ba90db276045f5b41e59d46307a911": {
+                "model_name": "LayoutModel",
+                "model_module": "@jupyter-widgets/base",
+                "model_module_version": "1.2.0",
+                "state": {}
+            },
+            "262c19cb60574b5b985d0f5659bfe738": {
+                "model_name": "OutputModel",
+                "model_module": "@jupyter-widgets/output",
+                "model_module_version": "1.0.0",
+                "state": {
+                    "layout": "IPY_MODEL_71ba90db276045f5b41e59d46307a911",
+                    "outputs": [
+                        {
+                            "output_type": "display_data",
+                            "data": {
+                                "text/plain": "0.0"
+                            },
+                            "metadata": {}
+                        }
+                    ]
+                }
+            }
+        }
+    }
+    </script>
+    </head>
+    <body>
+    
+    <script type="application/vnd.jupyter.widget-view+json">
+    {
+        "version_major": 2,
+        "version_minor": 0,
+        "model_id": "60a8992b74eb46da8a72983c685a5ad6"
+    }
+    </script>
+    
+    </body>
+    </html>
+    
+    
