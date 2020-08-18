@@ -1,0 +1,12 @@
+Resources
+
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
+
+https://scikit-learn.org/stable/modules/clustering.html
+
+http://brandonrose.org/clustering_mobile
+
+https://www.khanacademy.org/partner-content/pixar/pattern/dino/v/patterns2_new
+
+https://www.inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html
+
